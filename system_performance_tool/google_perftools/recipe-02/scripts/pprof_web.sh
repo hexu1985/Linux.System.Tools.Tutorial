@@ -20,3 +20,5 @@ kill -12 $PID
 
 export PATH=${PATH}:${HOME}/local/gperftools/bin/
 pprof-symbolize --web ./example prof.data.0  # 交互式查看
+
+kill -9
