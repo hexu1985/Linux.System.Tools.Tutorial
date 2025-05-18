@@ -8,3 +8,4 @@
 
 ### [系统信息工具](system_information_tools)
 - [lscpu命令](system_information_tools/lscpu)
+- [top命令](system_information_tools/top)
