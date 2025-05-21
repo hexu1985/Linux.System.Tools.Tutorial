@@ -11,5 +11,6 @@
 - [top命令](system_tools/top)
 
 ### [网络工具](network_tools)
+- [lsof命令](system_tools/lsof)
 - [tcpdump命令](system_tools/tcpdump)
 - [traceroute命令](system_tools/traceroute)
