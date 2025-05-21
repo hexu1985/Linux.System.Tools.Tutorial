@@ -12,5 +12,7 @@
 
 ### [网络工具](network_tools)
 - [lsof命令](system_tools/lsof)
+- [netstat命令](system_tools/netstat)
+- [ss命令](system_tools/ss)
 - [tcpdump命令](system_tools/tcpdump)
 - [traceroute命令](system_tools/traceroute)
