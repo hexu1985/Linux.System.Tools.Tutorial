@@ -11,6 +11,8 @@
 - [top命令](system_tools/top)
 
 ### [网络工具](network_tools)
+- [ifconfig命令](system_tools/ifconfig)
+- [ip命令](system_tools/ip)
 - [lsof命令](system_tools/lsof)
 - [netstat命令](system_tools/netstat)
 - [sar命令](system_tools/sar)
