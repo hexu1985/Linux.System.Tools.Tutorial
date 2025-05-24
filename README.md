@@ -9,6 +9,7 @@
 - [atop命令](system_tools/atop)
 - [lscpu命令](system_tools/lscpu)
 - [top命令](system_tools/top)
+- [uptime命令](system_tools/uptime)
 
 ### [网络工具](network_tools)
 - [ifconfig命令](system_tools/ifconfig)
