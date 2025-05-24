@@ -10,6 +10,7 @@
 - [lscpu命令](system_tools/lscpu)
 - [top命令](system_tools/top)
 - [uptime命令](system_tools/uptime)
+- [vmstat命令](system_tools/vmstat)
 
 ### [网络工具](network_tools)
 - [ifconfig命令](system_tools/ifconfig)
