@@ -8,6 +8,8 @@
 ### [系统工具](system_tools)
 - [atop命令](system_tools/atop)
 - [lscpu命令](system_tools/lscpu)
+- [pmstat命令](system_tools/pmstat)
+- [sar命令](system_tools/sar)
 - [top命令](system_tools/top)
 - [uptime命令](system_tools/uptime)
 - [vmstat命令](system_tools/vmstat)
