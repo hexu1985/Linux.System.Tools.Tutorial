@@ -7,8 +7,10 @@
 
 ### [系统工具](system_tools)
 - [atop命令](system_tools/atop)
+- [dd命令](system_tools/dd)
 - [df命令](system_tools/df)
 - [dmesg命令](system_tools/dmesg)
+- [du命令](system_tools/du)
 - [free命令](system_tools/free)
 - [lscpu命令](system_tools/lscpu)
 - [mount命令](system_tools/mount)
