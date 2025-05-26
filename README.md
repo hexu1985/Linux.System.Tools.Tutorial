@@ -9,6 +9,7 @@
 - [atop命令](system_tools/atop)
 - [lscpu命令](system_tools/lscpu)
 - [mpstat命令](system_tools/mpstat)
+- [perf命令](system_tools/perf)
 - [pidstat命令](system_tools/pidstat)
 - [ps命令](system_tools/ps)
 - [sar命令](system_tools/sar)
