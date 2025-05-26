@@ -12,6 +12,7 @@
 - [pidstat命令](system_tools/pidstat)
 - [ps命令](system_tools/ps)
 - [sar命令](system_tools/sar)
+- [time命令](system_tools/time)
 - [top命令](system_tools/top)
 - [uptime命令](system_tools/uptime)
 - [vmstat命令](system_tools/vmstat)
